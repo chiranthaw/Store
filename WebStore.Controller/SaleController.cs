@@ -9,6 +9,7 @@ namespace WebStore.Controller
 {
     class SaleController
     {
+        // Comment 12:26
        public SaleLine saleLine;
     }
 }
